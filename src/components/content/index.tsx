@@ -14,7 +14,7 @@ const content = () => {
         </nav>
         <div className="flex flex-col justify-center items-center w-full h-[500px]">
           <h1 className="text-[30px] md:text-[40px] font-bold text-[#FFFFFF]">
-            What can I hel with AI?
+            What can I help with AI?
           </h1>
           <SearchBox />
         </div>
